@@ -1,5 +1,0 @@
-
-#todo 
-
- half-open socket
-
