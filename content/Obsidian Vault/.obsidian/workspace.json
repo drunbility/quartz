@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "8670b47e9e16777d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f3a089be1eee892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f91c60ef38d965",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97a7621ecea13337",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3d151cecd60bb17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5442bc162f24817",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9da3a562c564d176",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "flink",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8980dfa3e954755c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "240d0194cf620ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a785f42fa93eb59f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c4662519e1ab02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9a62d2be4eb519ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ef5e01267346440",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3e78ee169fb47c24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9da3a562c564d176",
+  "lastOpenFiles": [
+    "hive server2  的时区问题.md",
+    "datanode 退役卡主问题.md",
+    "使用 tcmalloc 跟踪新增内存.md",
+    "从fsimage恢复namenode.md",
+    "edit logs 错误导致 hdfs 无法重启.md",
+    "从 active nn 恢复 standy nn.md",
+    "HDFS HA 背景.md",
+    "HA Using QJM.md",
+    "未释放磁盘存储问题.md",
+    "HS2 文件描述符泄漏.md",
+    "shell 常用查找删除命令.md",
+    "tcp 孤儿连接问题排查.md",
+    "hms listener.md",
+    "Pasted image 20221123154930.png",
+    "企业微信截图_facefcc6-a73d-48de-bc9a-873a712b14c7.png",
+    "企业微信截图_6b0f3a77-a7f4-442b-8815-3abd8ee736ea.png",
+    "企业微信截图_d294c8cd-55a9-4579-b3d6-81a4d95c0679.png",
+    "企业微信截图_b362b559-01fb-49bc-a469-9996b4b78ecd.png",
+    "企业微信截图_b87f9112-cd7f-47e2-9b9f-a25816ef2878.png",
+    "企业微信截图_b8c0b89a-c43c-4a12-b401-8a7238fde1b1.png",
+    "企业微信截图_ab9a4163-2ea5-4017-a8cd-1f8044752d4f.png",
+    "企业微信截图_16641609893397.png",
+    "企业微信截图_610f5caa-8907-46b6-b27f-805c7d5e149d.png",
+    "distcp attempt Tried pipline recovery 5 times 报错排查.md",
+    "hs2 本地内存泄漏问题.md",
+    "未命名.canvas",
+    "2023-03-13.md",
+    "拷贝修复坏块文件.md",
+    "动态更新 hdfs 配置.md",
+    "未命名 2.canvas",
+    "高负载 hdfs 调优.md",
+    "apache calcite.md",
+    "hadoop ipc  框架.md",
+    "jvm 启动参数.md",
+    "hive 执行 alter table add columns 慢问题.md",
+    "jvm 本地内存排查.md",
+    "集群内核参数调优.md",
+    "namenode recovery 模式.md",
+    "未命名 1.canvas"
+  ]
+}
